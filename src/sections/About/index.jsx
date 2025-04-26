@@ -40,24 +40,6 @@ const About = () => {
               impulsionando a aprender novas tecnologias e a buscar sempre mais
               soluções para otimizar a forma como as coisas funcionam.
             </p>
-
-            <S.SkillsSection>
-              <S.SkillsTitle>O que me motiva:</S.SkillsTitle>
-              <S.SkillsGrid>
-                <S.SkillItem>
-                  Entender como as pessoas e os processos se conectam para gerar
-                  resultados.
-                </S.SkillItem>
-                <S.SkillItem>
-                  Criar soluções simples e eficientes que possam impactar
-                  positivamente as empresas.
-                </S.SkillItem>
-                <S.SkillItem>
-                  Continuar evoluindo como profissional e pessoa, sempre em
-                  busca de aprendizado.
-                </S.SkillItem>
-              </S.SkillsGrid>
-            </S.SkillsSection>
           </S.AboutText>
         </S.AboutContent>
       </S.AboutGrid>
